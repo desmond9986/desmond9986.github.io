@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/desmond9986.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/desmond9986.github.io/static/js/main.723dbad3.js",
+    "static/js/787.55a1aad0.chunk.js": "/desmond9986.github.io/static/js/787.55a1aad0.chunk.js",
+    "static/media/logo.svg": "/desmond9986.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/desmond9986.github.io/index.html",
+    "main.073c9b0a.css.map": "/desmond9986.github.io/static/css/main.073c9b0a.css.map",
+    "main.723dbad3.js.map": "/desmond9986.github.io/static/js/main.723dbad3.js.map",
+    "787.55a1aad0.chunk.js.map": "/desmond9986.github.io/static/js/787.55a1aad0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.723dbad3.js"
+  ]
+}
